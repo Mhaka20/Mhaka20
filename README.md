@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **interesting software projects**
 - 🤔 I’m looking for help with **advanced system design & scalable applications**
 - 💬 Ask me about **programming, tech, and development tools**
-- 📫 How to reach me: **[your email here]**
+- 📫 How to reach me: Josephlawrencevillanueva2003@gmail.com
 - ⚡ Fun fact: *I love turning ideas into reality through code*
 
 ---
