@@ -1,4 +1,4 @@
-# Hi there 👋, Joseph
+# Kumusta👋, Joseph
 
 🎯 **Passionate Developer | Tech Enthusiast | Lifelong Learner**
 
