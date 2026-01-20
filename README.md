@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mhaka
+# Hi there 👋, Joseph
 
 🎯 **Passionate Developer | Tech Enthusiast | Lifelong Learner**
 
